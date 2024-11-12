@@ -1,7 +1,5 @@
 ID: 229N    Direction: NORTH    Lat/Lon: 40.709416,-74.006571    Name: FULTON ST
 
-this is the stop that i take to get to work
-
 ID: A38N    Direction: NORTH    Lat/Lon: 40.710197,-74.007691    Name: FULTON ST
 
 this one actually has data for A though
